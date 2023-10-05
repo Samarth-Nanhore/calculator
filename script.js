@@ -13,3 +13,7 @@ let multiply = (...arg) => {
 let divide = (...arg) => {
   return arg.reduce((total, curr) => total / curr);
 };
+
+let firstNumber = 50;
+let secondNumber = 20;
+let operator = "*";
